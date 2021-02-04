@@ -1,0 +1,27 @@
+{
+  "name": "basic-name-generator",
+  "version": "1.0.0",
+  "description": "This generates basic names based off a file containing hundreds of names. This is done by randomly selecting a name and choosing it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyBadProjects/basic-name-generator.git"
+  },
+  "keywords": [
+    "name",
+    "generator",
+    "easy",
+    "basic",
+    "simple",
+    "mybadprojects"
+  ],
+  "author": "MyBadProjects",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyBadProjects/basic-name-generator/issues"
+  },
+  "homepage": "https://github.com/MyBadProjects/basic-name-generator#readme"
+}
