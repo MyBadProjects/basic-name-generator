@@ -1,0 +1,5 @@
+{
+  "AmountOfNames": 1000,
+  "NamesPerPerson": 2,
+  "FileOutput": "output.txt"
+}
